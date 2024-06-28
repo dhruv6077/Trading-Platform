@@ -11,7 +11,7 @@ This repository contains the source code for a trading operations system designe
 - Custom exceptions for robust error handling. <br>
 - Optimized data structures and algorithms for high-performance trading operations. <br>
 
-# Potential Areas for Project Upgrades
+<h3> Potential Areas for Project Upgrades </h3>
 
 - Multithreading
 - GUI
